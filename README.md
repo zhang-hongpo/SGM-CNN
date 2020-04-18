@@ -6,7 +6,8 @@
 ###### The two contributors of this NIDS are Ms. Lulu Huang and SN ENGR. Hongpo Zhang (zhp@zzu.edu.cn). If you have any problems, please do not hesitate to send us an email. 
 
  
- Please cite our papers, in case you find our work useful.
+Please cite our papers, in case you find our work useful.
+
  (1) Hongpo Zhang, Lulu Huang, Chase Q. Wu and Zhanbo Li:
 	 An Effective Convolutional Neural Network Based on SMOTE and Gaussian Mixture Model for Intrusion Detection in Imbalanced Dataset. Computer Networks (Revision), 2020
 
