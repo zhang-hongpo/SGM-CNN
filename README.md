@@ -9,7 +9,7 @@
 Please cite our papers, in case you find our work useful.
 
  (1) Hongpo Zhang, Lulu Huang, Chase Q. Wu and Zhanbo Li:
-	 An Effective Convolutional Neural Network Based on SMOTE and Gaussian Mixture Model for Intrusion Detection in Imbalanced Dataset. Computer Networks (Revision), 2020
+	 An Effective Convolutional Neural Network Based on SMOTE and Gaussian Mixture Model for Intrusion Detection in Imbalanced Dataset. Computer Networks, 2020,  (Revision)
 
  (2) Hongpo Zhang, Chase Q. Wu, Shan Gao, Zongmin Wang, Yuxiao Xu and Yongpeng Liu:
      An effective deep learning based scheme for network intrusion detection, in: 2018 24th International Conference on Pattern Recognition (ICPR), 2018, pp. 682–687. doi:10.1109/ICPR.2018.8546162.
